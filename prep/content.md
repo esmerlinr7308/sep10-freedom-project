@@ -8,8 +8,9 @@ Topic: Soccer technology
 ## Part A: existing technology
 
 ##### Software
-* Tech
-  * Detail
+* Smart ball system
+  * The smart ball system is a software created to track the balls exact position in real time
+  * Sense if players made contact with the ball
   * [image text](image URL)
 
 ##### Hardware
