@@ -22,7 +22,8 @@ Topic: Soccer technology
   * Helps players see better POV of goal/play
   * POV of referee decisions
   * helps dectectd player abuse and have video evidence 
-  * [image text](image URL)
+  * [image text](https://www.theguardian.com/football/2025/jul/11/premier-league-holds-talks-with-ifab-over-plans-to-introduce-ref-cams-next-season)
+  * 
 
 ## Part B: possible future technology
 * Chips in players boots/better VAR systems
